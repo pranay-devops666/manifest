@@ -18,5 +18,6 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Stage-2'
 
-- script: |echo "welcome to Azure class"
+- script: |
+    echo "Welcome to Azure class"
   displayName: 'Stage-3'
